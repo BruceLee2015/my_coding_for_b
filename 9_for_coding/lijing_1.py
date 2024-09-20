@@ -21,4 +21,4 @@ def longest_subarray(nums, target):
 nums = [1, 15, 7, 9, 2, 5, 10]
 target = 9
 print(longest_subarray(nums, target))  # 输出应该是 3
-print("test")
+print("testtesttest")
